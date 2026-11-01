@@ -27,3 +27,4 @@ Fonts: Sora Bold (headlines) and Inter Regular (body).
 
 ## Tools
 Designed with Claude. Logo animation prepared for After Effects.
+![Lumora animated logo](lumora-logo-animated.svg)
