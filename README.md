@@ -25,6 +25,6 @@ Fonts: Sora Bold (headlines) and Inter Regular (body).
 ## Social media templates
 ![Social templates](Social%20templates%401x.png)
 
-## Tools
-Designed with Claude. Logo animation prepared for After Effects.
+## Animation
+animation
 ![Lumora animated logo](lumora-logo-animated.svg)
